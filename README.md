@@ -24,4 +24,4 @@ Dashboards interactivos creados a partir de datos públicos:
 ---
 
 ✨ Este repositorio tiene como objetivo mostrar mis habilidades técnicas y mi forma de resolver problemas con datos.  
-📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/emilio-jopia/) 
+📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/emilio-jopia/) 
